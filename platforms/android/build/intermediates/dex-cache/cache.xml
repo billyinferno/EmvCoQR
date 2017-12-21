@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-26.0.0-alpha1_003484a097f1feea8949a5c3aafd44e4ef398dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-26.0.0-alpha1_f89c3b5a0fc1c0e1c1b1307f37a68e33027f3009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-26.0.0-alpha1_0f38a67720abf6da3db9826c410d57f64738626c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-26.0.0-alpha1_5100acf120d95d4071d0dc6c7f1e40b05b92c879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-26.0.0-alpha1_3cd3d4b6e90d60b8455f44ba032f6b11876ff6bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_22d69a70f96258f6906d57a8d5577da4b21cb415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\barcodescanner-release-2.1.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2d4f602a67efec62a1db4e4b2e695e8270fd0a1c">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-barcodescanner-release-2.1.6_ebd9f6151101137924711f2507186add096d8ed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-26.0.0-alpha1_e5646e97da1b63191bffeeab56d5525e18465593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_b1657bfaae439afe5aae50a0b0a155a3ca456e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-nativescript-optimized_23ed0f2746201085b32e1e165ddf2dd12d03d531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_634e50b6b9d79d1979eef963063fab9638d6545b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-26.0.0-alpha1_f61bcbebfbeaea07b3a028ef780a039d1a8d1345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_2226962f05d4045dd8af230b97caccee8cdb917b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-26.0.0-alpha1_ee7d08fb003868d528f9aa3ff003435b15fa8763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-26.0.0-alpha1_5bbac52e8cc77e670f93b552d5deb3099ebd6591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Project\NativeScript\EmvCoQR\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-26.0.0-alpha1_57d3d1a71e790a5a2890b9f15694dd139658e587.jar" />
+    </item>
+
+</items>

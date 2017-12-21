@@ -1,0 +1,8 @@
+{
+    "base-64": true,
+    "nativescript-barcodescanner": true,
+    "nativescript-theme-core": true,
+    "tns-core-modules": true,
+    "utf8": true,
+    "tns-core-modules-widgets": true
+}

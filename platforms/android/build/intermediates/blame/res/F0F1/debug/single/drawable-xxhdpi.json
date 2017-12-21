@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\launcher_icon.png",
+        "source": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\build\\intermediates\\exploded-aar\\barcodescanner-release-2.1.6\\res\\drawable-xxhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\background.png",
+        "source": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "E:\\Project\\NativeScript\\EmvCoQR\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]
